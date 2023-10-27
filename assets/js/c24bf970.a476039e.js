@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbudget_backrooms=self.webpackChunkbudget_backrooms||[]).push([[8484],{6902:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Budget-Docs/blog/tags/facebook","allTagsPath":"/Budget-Docs/blog/tags","count":1}')}}]);

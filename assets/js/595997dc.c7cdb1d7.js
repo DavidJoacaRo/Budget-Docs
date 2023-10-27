@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbudget_backrooms=self.webpackChunkbudget_backrooms||[]).push([[9141],{6566:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Budget-Docs/blog/tags/docusaurus","allTagsPath":"/Budget-Docs/blog/tags","count":4}')}}]);

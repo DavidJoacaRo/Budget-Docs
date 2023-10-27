@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbudget_backrooms=self.webpackChunkbudget_backrooms||[]).push([[2627],{8517:e=>{e.exports=JSON.parse('{"permalink":"/Budget-Docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
