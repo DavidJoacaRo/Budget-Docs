@@ -89,4 +89,4 @@ There is a dark corner that a [Smiler](https://github.com/DavidJoacaRo/Budget-Ba
 
 **To be continued, will be available when 0.0.11 Alpha launches :)**
 
-In the meantime you can join the [Discord Server](https://discord.gg/WVuTB56ag4), or you can [contribute to the game](WVuTB56ag4).
+In the meantime you can join the [Discord Server](https://discord.gg/WVuTB56ag4), or you can [contribute to the game](https://github.com/DavidJoacaRo/Budget-Backrooms/). <!-- what was this link supposed to be?, shouldn't this be github link? -->
