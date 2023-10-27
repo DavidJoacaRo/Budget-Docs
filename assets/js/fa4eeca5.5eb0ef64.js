@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbudget_backrooms=self.webpackChunkbudget_backrooms||[]).push([[1945],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
