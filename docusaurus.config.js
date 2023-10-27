@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Budget Backrooms',
   tagline: 'Official Wiki & Documentation for your fellow, low-budget Project!',
-  favicon: 'img/favic.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://davidjoacaro.github.io',
@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/64x64px.png',
       navbar: {
         title: 'Budget Backrooms Documentation',
         logo: {
