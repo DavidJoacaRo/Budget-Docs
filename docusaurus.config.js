@@ -66,19 +66,19 @@ const config = {
       navbar: {
         title: 'Budget Backrooms Documentation',
         logo: {
-          alt: 'Our Site Logo',
+          alt: 'Logo',
           src: 'img/64px.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'MainSide',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/DavidJoacaRo/Budget-Docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -88,11 +88,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Wiki',
+                to: '/docs/Wiki/About Wiki',
               },
             ],
           },
@@ -100,34 +100,25 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Steam',
+                href: 'https://store.steampowered.com/app/2589200/Budget_Backrooms/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/WVuTB56ag4',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Game GitHub Repository',
+                href: 'https://github.com/DavidJoacaRo/Budget-Backrooms',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Wiki Repository',
+                href: 'https://github.com/DavidJoacaRo/Budget-Docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Adolf H. Ltd, Built with Docusaurus`,
+        copyright: `we need a copyright footer?`,
       },
       prism: {
         theme: lightCodeTheme,

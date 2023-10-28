@@ -2,11 +2,8 @@
 <div align="center">
 
 # About this section
-###### Last revision on 30.07.2023 (dd.mm.yyyy)
+###### Last revision on 28.10.2023 (dd.mm.yyyy)
 </div>
-
-Entities play a major role in-game, we
-
 This page will cover the available Entities and their behavior. While there isn't an extensive amount of complexity to these mechanics, I'll provide a brief overview of what you can expect. Please note that the AI for The Howler is relatively simple - this isn't Hello Neighbor.
 
 
@@ -34,7 +31,7 @@ Calm down, calm down. I didn't understood shit too when I opened Unreal Engine f
 
 Leaving narratives behind, let's analyze.
 
-Ignoring the fancy text that occupies the whole editor window, we can see The Howler walking (no shit sherlock). And two types of green shapes on the floor.
+Ignoring the ~~fancy~~ advanced text that occupies the whole editor window, we can see The Howler walking (no shit sherlock). And two types of green shapes on the floor.
 * The one with darker outline means, the possible locations of the AI to navigate.
 * The one with lighter and transparent green, followed by a solid green outline, it means where he is headed to go (or to navigate, walk, etc).
 
