@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer').themes.vsDark;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Budget Backrooms',
+  title: 'Budget Docs',
   tagline: 'Official Wiki & Documentation for your fellow, low-budget Project!',
   favicon: 'img/favicon.ico',
 
@@ -38,19 +38,15 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/DavidJoacaRo/Budget-Docs/blob/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/DavidJoacaRo/Budget-Docs/blob/main/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -64,17 +60,23 @@ const config = {
       // Replace with your project's social card
       image: 'img/64x64px.png',
       navbar: {
-        title: 'Budget Backrooms Documentation',
+        title: 'Budget Docs',
         logo: {
           alt: 'Logo',
           src: 'img/64px.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'MainSide',
+            activeBasePath: 'docs',
             position: 'left',
             label: 'Wiki',
+            to: 'wiki',
+          },
+          {
+            activeBasePath: 'docs',
+            position: 'left',
+            label: 'Documentation',
+            to: 'docs',
           },
           {
             href: 'https://github.com/DavidJoacaRo/Budget-Docs',
@@ -87,12 +89,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Documentation',
+            title: 'Knowledge',
             items: [
               {
                 label: 'Wiki',
-                to: '/docs/Wiki/About Wiki',
-              },
+                to: 'wiki',
+              }, {
+                label: 'Documentation',
+                to: 'docs'
+              }
             ],
           },
           {
@@ -103,15 +108,15 @@ const config = {
                 href: 'https://store.steampowered.com/app/2589200/Budget_Backrooms/',
               },
               {
-                label: 'Discord',
+                label: 'Budget Backrooms on Discord',
                 href: 'https://discord.gg/WVuTB56ag4',
               },
               {
-                label: 'Game GitHub Repository',
+                label: 'Budget Backrooms on GitHub',
                 href: 'https://github.com/DavidJoacaRo/Budget-Backrooms',
               },
               {
-                label: 'Wiki Repository',
+                label: 'Budget Docs on GitHub',
                 href: 'https://github.com/DavidJoacaRo/Budget-Docs',
               },
             ],

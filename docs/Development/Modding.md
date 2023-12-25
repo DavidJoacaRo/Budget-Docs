@@ -1,3 +1,7 @@
+---
+slug: /docs/modding
+---
+
 ![bb backrooms wiki modding banner](https://user-images.githubusercontent.com/32200281/232258762-98b0885e-b8b1-42fe-a3d9-62c8b9c530c2.png)
 <div align="center">
 
@@ -23,9 +27,14 @@ I hope you'll learn something and do something better for this game or, of your 
 # 📁 Setting up the Project
 ---
 
+:::info
+**This guide is not foolproof. Make sure you have everything ready before attempting this.**
+:::
+
+
 :::warning
 
-*If  you're encountering errors or having difficulties, [post an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues) and, with your cooperation, we could try fixing your problem. This guide is not foolproof. Make sure you have everything ready before attempting this. I don't want to waste your time*
+*If you're encountering errors or having difficulties, [post an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues) and, with your cooperation, we could try fixing your problem.*
 
 :::
 :::danger
@@ -38,14 +47,12 @@ I hope you'll learn something and do something better for this game or, of your 
 1. Download / Clone the project using Git or any other preferred method. (git is required to be up to date with the source code)
 
 2. Make sure to install the required plugins inside the [.uproject](https://github.com/DavidJoacaRo/Budget-Backrooms/blob/main/BudgetBackrooms.uproject).
-    * ~~*If you do not have `HardwareData` and `DiscordRichPresence` plugin (both paid apparently), get them from a reliable source or somehow ask me but shhhhh*~~
-        * ~~After you got `HardwareData` and `DiscordRichPresence`, make sure they in the **engine's plugin folder** and *not* in the `Plugins/` folder of the game.~~ ***ℹ️ Issue was fixed in [this pull request](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)***
         * ⚠ **Make sure to download & install the Marketplace plugins, and then open the project. Otherwise you'll run into errors, so best advice to install them before.**
     * **AMD FSR (AMD FidelityFX Super Resolution 1.0)** plugin can be found [here](https://gpuopen.com/fidelityfx-superresolution/) since it's not available on the Unreal Marketplace.
 
 3. You may be prompted to "rebuild" `BudgetBackrooms` when opening the project.
 * Encountering errors?
-    * 1. You could try deleting the `Source/` and the `.sln` if you **don't planning on using C++**.
+    * 1. You could try deleting the `Source/` and the `.sln` if you **don't plan on using C++**.
     * 2. Keep everything in place and follow [these steps](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/27#issuecomment-1546723543).
     * 3. If none of the above worked, make sure you got all the plugins installed as they are used in the project.
         * The paid plugin issue was solved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)
@@ -59,5 +66,5 @@ I hope you'll learn something and do something better for this game or, of your 
         * Backtrace your problem, see what went wrong.
         * Revert some steps?
         * Still not working?
-            * [Make an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/new), and hopefully I could try helping you.
+            * [Make an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/new), and hopefully, I could try helping you.
 

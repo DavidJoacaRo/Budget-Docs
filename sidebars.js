@@ -18,14 +18,14 @@ const sidebars = {
 
   // But you can create a sidebar manually
   
-  /* MainSide: [
-    'wiki/Home',
+   /** MainSide: [
+    'Wiki/About Wiki',
     {
       type: 'category',
       label: 'Game Mechanics',
-      items: ['wiki/Home'],
-    },
-  ], */
+      items: ['Wiki/About Wiki'],
+    },*
+  ],*/
    
 };
 
