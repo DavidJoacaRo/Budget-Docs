@@ -40,6 +40,5 @@ There are currently 9 Levels in Budget Backrooms.
 
 ## Level 4 | "Abandoned Office"
 
-**To be continued, will be available when 0.0.11 Alpha launches :)**
 
-In the meantime you can join the [Discord Server](https://discord.gg/WVuTB56ag4), or you can [contribute to the game](https://github.com/DavidJoacaRo/Budget-Backrooms/).
+In the meantime, you can join the [Discord Server](https://discord.gg/WVuTB56ag4), or you can [contribute to the game](https://github.com/DavidJoacaRo/Budget-Backrooms/).

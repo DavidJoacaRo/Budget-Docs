@@ -41,7 +41,7 @@ Whatever, leaving the uh visual aspects behind. Let's talk AI.
 
 <sup>"What the hell am I looking at David? I don't understand shit."</sup>
 
-Calm down, calm down. I didn't understand shit too when I opened Unreal Engine for the first time. However the [YouTube tutorials](https://www.youtube.com/results?search_query=matt+aspland) and the [documentation](https://docs.unrealengine.com/4.27/en-US/) helped me. You just need patience and motivation.
+Calm down, calm down. I didn't understand shit too when I opened Unreal Engine for the first time. However, the [YouTube](https://www.youtube.com/results?search_query=matt+aspland) tutorials](https://www.youtube.com/results?search_query=matt+aspland) and the [documentation](https://docs.unrealengine.com/4.27/en-US/) helped me. You just need patience and motivation.
 
 Leaving narratives behind, let's analyze.
 
@@ -70,12 +70,12 @@ Look I'm not gonna get into more detail because we're gonna lose track. [The com
 
 From a glance, the AI might look dumb and such, but it is a bit complicated to make it work.
 
-**I think this sums up everything you have to know about the AI, for now. Anyway,**
+**I think this sums up everything you have to know about AI, for now. Anyway,**
 
 :::tip[Budget Fact!]
 Did you know?
-* The first prototype of the AI was added way back in [v0.0.3 Alpha](https://github.com/DavidJoacaRo/Budget-Backrooms/releases/tag/v0.0.3-alpha) and it looked like [this](https://imgur.com/a/6R76zFa).
-* I actually lost my mind trying to figure out how to set up the AI.
+* The prototype of the AI was added way back in [v0.0.3 Alpha](https://github.com/DavidJoacaRo/Budget-Backrooms/releases/tag/v0.0.3-alpha) and it looked like [this](https://imgur.com/a/6R76zFa).
+* I lost my mind trying to figure out how to set up the AI.
 * The model has no eyes or any visible ears but can somehow still chase you
 :::
 

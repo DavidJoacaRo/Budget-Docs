@@ -9,4 +9,4 @@ slug: /wiki/levels/2
 
 **Level 2** is a long hallway, surrounded by pipes and the sounds of water flowing through. The small lights under the pipes give you an idea of where to go, but it looks self-explanatory anyway.
 
-There have been the first-time occurrences of [Smilers](/wiki/entities#the-smiler). An exit can be found after dealing with them that leads to [Level 3](wiki/levels/3).
+There have been the first-time occurrences of [Smilers](/wiki/entities#the-smiler). An exit can be found after dealing with them which leads to [Level 3](wiki/levels/3).

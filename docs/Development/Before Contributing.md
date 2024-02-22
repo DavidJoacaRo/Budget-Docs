@@ -37,10 +37,10 @@ Well, to be honest with you. I accept everything that goes on with the game. UI,
 * Gamemodes & Maps
     * Gamemodes
         * Existing Gamemode contributions (ex: working on unavailable or existing gamemdes.)
-            * Should be what the Gamemode's title inquires.
+            * This should be what the Gamemode's title inquires.
             * Improvements and modifications should be explained in the Pull Request's description.
         * New Gamemode?
-            * It should fit the game, (e.g. Practice Mode, Multiplayer, Split-Screen, Catch the Flashlight), you know.. something.
+            * It should fit the game, (e.g. Practice Mode, Multiplayer, Split-Screen, Catch the Flashlight).
     
     * Maps
         * Should use the same "realistic but not so" style as the other levels. A puzzle or mechanism is optional, please also provide info.

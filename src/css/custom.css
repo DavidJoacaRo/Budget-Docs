@@ -13,6 +13,7 @@
   --ifm-color-primary-light: #000000;
   --ifm-color-primary-lighter: #000000;
   --ifm-color-primary-lightest: #000000;
+  --ifm-navbar-background-color: #ffffff80;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -24,8 +25,21 @@
   --ifm-color-primary-light: #e9e199;
   --ifm-color-primary-lighter: #ece5a7;
   --ifm-color-primary-lightest: #f6f2d3;
+  --ifm-navbar-background-color: #00000020;
 }
 
 .footer--dark {
   --ifm-footer-background-color: #000000;
+}
+
+.navbar{
+  backdrop-filter: blur(32px);
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Rubik', sans-serif;
 }

@@ -13,7 +13,7 @@ This section should mostly cover everything about the game's open-source stuff, 
 
 Well, the game is open source so you're free to see what's hiding behind the blueprint stuff by [downloading the project](https://github.com/DavidJoacaRo/Budget-Backrooms/releases) (not the [binary release](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)).
 
-I hope you'll learn something and do something better for this game or, of your own game.
+I hope you'll learn something and do something better for this game or, for your own game.
 
 ## ❓ Prerequisites
 
@@ -63,7 +63,7 @@ I hope you'll learn something and do something better for this game or, of your 
         * You are done, modify the heck of it (the game).
 
     * No
-        * Backtrace your problem, see what went wrong.
+        * Backtrace your problem, and see what went wrong.
         * Revert some steps?
         * Still not working?
             * [Make an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/new), and hopefully, I could try helping you.
