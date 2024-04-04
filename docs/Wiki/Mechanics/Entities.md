@@ -41,7 +41,7 @@ Whatever, leaving the uh visual aspects behind. Let's talk AI.
 
 <sup>"What the hell am I looking at David? I don't understand shit."</sup>
 
-Calm down, calm down. I didn't understand shit too when I opened Unreal Engine for the first time. However, the [YouTube](https://www.youtube.com/results?search_query=matt+aspland) tutorials](https://www.youtube.com/results?search_query=matt+aspland) and the [documentation](https://docs.unrealengine.com/4.27/en-US/) helped me. You just need patience and motivation.
+Calm down, calm down. I didn't understand shit too when I opened Unreal Engine for the first time. However, the [YouTube tutorials](https://www.youtube.com/results?search_query=matt+aspland) and the [documentation](https://docs.unrealengine.com/4.27/en-US/) helped me. You just need patience and motivation.
 
 Leaving narratives behind, let's analyze.
 
