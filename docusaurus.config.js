@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/64x64px.png',
+      //image: 'img/64x64px.png',
       navbar: {
         title: 'Budget Docs',
         logo: {
