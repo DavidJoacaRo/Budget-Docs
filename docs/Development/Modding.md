@@ -25,6 +25,7 @@ I hope you'll learn something and do something better for this game or, for your
 * Basic knowledge of Unreal Engine.
 * Basic Brain processing power.
     * Concentrated and calm behavior is recommended.
+* Visual Studio 2022 or better.
 
 
 # 📁 Setting up the Project
