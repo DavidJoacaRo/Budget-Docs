@@ -43,7 +43,7 @@ Well, to be honest with you. I accept everything that goes on with the game. UI,
             * It should fit the game, (e.g. Practice Mode, Multiplayer, Split-Screen, Catch the Flashlight).
     
     * Maps
-        * Should use the same "realistic but not so" style as the other levels. A puzzle or mechanism is optional, please also provide info.
+        * Should use the same "realistic but not so" style as the other levels. A puzzle or mechanism is optional, logical and comprehensible level design would be nice.
             * FOR THE LOVE OF GOD DO NOT INSTALL 16 ASSET PACKS ONLY FOR ONE FUCKING MAP, GITHUB IS JUST GONNA SUSPEND MY WHOLE REPOSITORY
                 * Do NOT make zip bombs out of this game.
 
@@ -76,6 +76,6 @@ Before that,
 
 * Music?
 
-    ~~* Level 0 uses the song "Key" made by C418 (sorry C418, I was too scared to email you).~~ (It was removed since the Steam Release to prevent legal issues, I will need to compose one ASAP)
+    * Level 0 uses the song "Key" made by C418
     * Main Menu uses a custom song made by me which is available on my [BandLab](https://www.bandlab.com/dabardibid/albums/f27d5d47-02c5-ed11-a8e0-00224844f6cb).
 

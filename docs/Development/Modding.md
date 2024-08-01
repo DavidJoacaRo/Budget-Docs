@@ -47,15 +47,31 @@ I hope you'll learn something and do something better for this game or, for your
 1. Download / Clone the project using Git or any other preferred method. (git is required to be up to date with the source code)
 
 2. Make sure to install the required plugins inside the [.uproject](https://github.com/DavidJoacaRo/Budget-Backrooms/blob/main/BudgetBackrooms.uproject).
-        * ⚠ **Make sure to download & install the Marketplace plugins, and then open the project. Otherwise you'll run into errors, so best advice to install them before.**
-    * **AMD FSR (AMD FidelityFX Super Resolution 1.0)** plugin can be found [here](https://gpuopen.com/fidelityfx-superresolution/) since it's not available on the Unreal Marketplace.
+
+:::warning
+
+**Make sure to download & install the Marketplace plugins, and then open the project. Otherwise you'll run into errors, so best advice to install them before.**
+
+:::
+
+:::info
+
+* **AMD FSR (AMD FidelityFX Super Resolution 1.0)** plugin can be found [here](https://gpuopen.com/fidelityfx-superresolution/) since it's not available on the Unreal Marketplace.
+
+* If the project has been downloaded using `git clone` then **DiscordRPC** can be installed by typing `git submodule update --init --recursive` in the game's root directory (usually where the `.uproject` is located)
+    * If the project has been downloaded directly as a `.zip`, you can go to [LouisRaverdy/DiscordRPC](https://github.com/LouisRaverdy/DiscordRPC)
+
+:::
+
 
 3. You may be prompted to "rebuild" `BudgetBackrooms` when opening the project.
-* Encountering errors?
-    * 1. You could try deleting the `Source/` and the `.sln` if you **don't plan on using C++**.
+* Encountering errors? (Troubleshooting Ideas)
+    * 1. You could try right-clicking `BudgetBackrooms.uproject` and selecting **Generate Visual Studio project files** then, recompile Budget Backrooms inside Visual Studio (Build > **Build BudgetBackrooms**).
+        * If the build didn't succeed anyway, try reading the log and see what went wrong, make sure the C++ Plugins such as **AdvancedSteamSessions** (and a few more) are installed inside the `Plugins` folder in the source code.
     * 2. Keep everything in place and follow [these steps](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/27#issuecomment-1546723543).
     * 3. If none of the above worked, make sure you got all the plugins installed as they are used in the project.
         * The paid plugin issue was solved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)
+    * 4. Make sure you have Visual Studio installed properly, since it's required to compile everything about C++ in the game, which is being used. Inside Visual Studio Installer, you can try pressing **Modify** at your preferred VS installation, and make sure the option **Game Development with C++** is ticked.
 * If you don't encounter any (other) errors, proceed to rebuild without doing anything else.
 
 4. Did you get the game's splash screen?
