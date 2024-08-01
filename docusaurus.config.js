@@ -135,20 +135,8 @@ const config = {
             content: "The All-In-One documentation website for any stuff related to Budget Backrooms.",
         },
         {
-            name: "og:image:src",
+            name: "og:image",
             content: "https://davidjoacaro.github.io/Budget-Docs/assets/images/home_header-1c172a49bc29e4a2ab84026916bc7354.png",
-        },
-        {
-            name: "twitter:card",
-            content: "https://davidjoacaro.github.io/Budget-Docs/assets/images/home_header-1c172a49bc29e4a2ab84026916bc7354.png",
-        },
-        {
-            name: "twitter:image:src",
-            content: "https://davidjoacaro.github.io/Budget-Docs/assets/images/home_header-1c172a49bc29e4a2ab84026916bc7354.png"
-        },
-        {
-            name: "twitter:title",
-           content: "Budget Docs - Yet another rewritten Wiki for Budget Backrooms",
         },
       ]
     }),
