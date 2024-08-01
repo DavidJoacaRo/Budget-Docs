@@ -47,7 +47,6 @@ const config = {
             'https://github.com/DavidJoacaRo/Budget-Docs/blob/main/',
         },
         blog: false,
-        
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -144,7 +143,31 @@ const config = {
     }),
     markdown: {
       format: "detect"
-    }
+    },
+    headTags: [
+      // Declare a <link> preconnect tag
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'preconnect',
+          href: 'https://davidjoacaro.github.io/Budget-Docs/',
+        },
+      },
+      // Declare some json-ld structured data
+      {
+        tagName: 'script',
+        attributes: {
+          type: 'application/ld+json',
+        },
+        innerHTML: JSON.stringify({
+          '@context': 'https://davidjoacaro.github.io/Budget-Docs/',
+          '@type': 'Website',
+          name: 'Budget Docs',
+          url: 'https://davidjoacaro.github.io/Budget-Docs/',
+          logo: 'img/64px.svg',
+        }),
+      },
+    ],
 };
 
 module.exports = config;
