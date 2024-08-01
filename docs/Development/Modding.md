@@ -2,7 +2,6 @@
 slug: /docs/modding
 title: Modding
 description: This section should mostly cover everything about the game's open-source stuff, how to use it, modify and so on.
-og:image: https://user-images.githubusercontent.com/32200281/232258762-98b0885e-b8b1-42fe-a3d9-62c8b9c530c2.png
 keywords: [docs, budget backrooms, mod, mod guide, budget docs]
 ---
 
