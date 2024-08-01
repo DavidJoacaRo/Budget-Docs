@@ -1,8 +1,8 @@
 ---
 slug: /docs/modding
-title: Budget Docs - Modding
+title: Modding
 description: This section should mostly cover everything about the game's open-source stuff, how to use it, modify and so on.
-image: https://user-images.githubusercontent.com/32200281/232258762-98b0885e-b8b1-42fe-a3d9-62c8b9c530c2.png
+og:image: https://user-images.githubusercontent.com/32200281/232258762-98b0885e-b8b1-42fe-a3d9-62c8b9c530c2.png
 keywords: [docs, budget backrooms, mod, mod guide, budget docs]
 ---
 
@@ -10,7 +10,7 @@ keywords: [docs, budget backrooms, mod, mod guide, budget docs]
 <div align="center">
 
 # About this section
-###### Last revision on 28.10.2023 (dd.mm.yyyy)
+###### Last revision on 01.08.2024 (dd.mm.yyyy)
 </div>
 
 This section should mostly cover everything about the game's open-source stuff, how to use it, modify and so on.
@@ -71,10 +71,10 @@ I hope you'll learn something and do something better for this game or, for your
 3. You may be prompted to "rebuild" `BudgetBackrooms` when opening the project.
 * Encountering errors? (Troubleshooting Ideas)
     * 1. You could try right-clicking `BudgetBackrooms.uproject` and selecting **Generate Visual Studio project files** then, recompile Budget Backrooms inside Visual Studio (Build > **Build BudgetBackrooms**).
-        * If the build didn't succeed anyway, try reading the log and see what went wrong, make sure the C++ Plugins such as **AdvancedSteamSessions** (and a few more) are installed inside the `Plugins` folder in the source code.
+            * If the build didn't succeed anyway, try reading the log and see what went wrong, make sure the C++ Plugins such as **AdvancedSteamSessions** (and a few more) are installed inside the `Plugins` folder in the source code.
     * 2. Keep everything in place and follow [these steps](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/27#issuecomment-1546723543).
     * 3. If none of the above worked, make sure you got all the plugins installed as they are used in the project.
-        * The paid plugin issue was solved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)
+            * The paid plugin issue was solved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)
     * 4. Make sure you have Visual Studio installed properly, since it's required to compile everything about C++ in the game, which is being used. Inside Visual Studio Installer, you can try pressing **Modify** at your preferred VS installation, and make sure the option **Game Development with C++** is ticked.
 * If you don't encounter any (other) errors, proceed to rebuild without doing anything else.
 

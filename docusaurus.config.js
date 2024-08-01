@@ -47,6 +47,7 @@ const config = {
             'https://github.com/DavidJoacaRo/Budget-Docs/blob/main/',
         },
         blog: false,
+        
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -59,6 +60,7 @@ const config = {
     ({
       // Replace with your project's social card
       //image: 'img/64x64px.png',
+      
       navbar: {
         title: 'Budget Docs',
         logo: {
