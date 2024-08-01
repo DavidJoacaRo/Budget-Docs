@@ -9,7 +9,7 @@ keywords: [docs, budget backrooms, mod, mod guide, budget docs]
 <div align="center">
 
 # About this section
-###### Last revision on 01.08.2024 (dd.mm.yyyy)
+
 </div>
 
 This section should mostly cover everything about the game's open-source stuff, how to use it, modify and so on.

@@ -6,7 +6,7 @@ slug: /docs
 <div align="center">
 
 # About this section
-###### Last revision on 25.12.2023 (dd.mm.yyyy)
+
 </div>
 
 # 📝 Pull Request Bare Minimum

@@ -6,7 +6,7 @@ slug: /wiki
 <div align="center">
 
 # 📔 Welcome to the Budget Backrooms Wiki!
-###### Last revision on 25.12.2023 (dd.mm.yyyy)
+
 </div>
 
 Here you can find *almost* everything Budget Backrooms related.

@@ -2,8 +2,9 @@
 <div align="center">
 
 # 👋 Welcome to the Budget Docs
+
 ### The All-In-One documentation website for any stuff related to Budget Backrooms.
-###### *Last revision on 25.12.2023 (dd.mm.yyyy)*
+
 </div>
 
 # 🪧 Introduction 
