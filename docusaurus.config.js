@@ -128,6 +128,17 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        { name: "og:title", content: "Budget Docs - Yet another rewritten Wiki for Budget Backrooms" },
+        {
+            name: "og:description",
+            content: "The All-In-One documentation website for any stuff related to Budget Backrooms.",
+        },
+        {
+            name: "og:image",
+            content: "https://davidjoacaro.github.io/Budget-Docs/assets/images/home_header-1c172a49bc29e4a2ab84026916bc7354.png",
+        },
+      ]
     }),
     markdown: {
       format: "detect"
