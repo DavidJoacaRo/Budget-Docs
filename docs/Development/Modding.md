@@ -71,10 +71,9 @@ I hope you'll learn something and do something better for this game or, for your
 * Encountering errors? (Troubleshooting Ideas)
     * 1. You could try right-clicking `BudgetBackrooms.uproject` and selecting **Generate Visual Studio project files** then, recompile Budget Backrooms inside Visual Studio (Build > **Build BudgetBackrooms**).
             * If the build didn't succeed anyway, try reading the log and see what went wrong, make sure the C++ Plugins such as **AdvancedSteamSessions** (and a few more) are installed inside the `Plugins` folder in the source code.
-    * 2. Keep everything in place and follow [these steps](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/27#issuecomment-1546723543).
-    * 3. If none of the above worked, make sure you got all the plugins installed as they are used in the project.
+    * 2. If none of the above worked, make sure you got all the plugins installed as they are used in the project.
             * The paid plugin issue was solved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)
-    * 4. Make sure you have Visual Studio installed properly, since it's required to compile everything about C++ in the game, which is being used. Inside Visual Studio Installer, you can try pressing **Modify** at your preferred VS installation, and make sure the option **Game Development with C++** is ticked.
+    * 3. Make sure you have Visual Studio installed properly, since it's required to compile everything about C++ in the game, which is being used. Inside Visual Studio Installer, you can try pressing **Modify** at your preferred VS installation, and make sure the option **Game Development with C++** is ticked.
 * If you don't encounter any (other) errors, proceed to rebuild without doing anything else.
 
 4. Did you get the game's splash screen?
