@@ -62,7 +62,7 @@ I hope you'll learn something and do something better for this game or, for your
 * **AMD FSR (AMD FidelityFX Super Resolution 1.0)** plugin can be found [here](https://gpuopen.com/fidelityfx-superresolution/) since it's not available on the Unreal Marketplace.
 
 * If the project has been downloaded using `git clone` then **DiscordRPC** can be installed by typing `git submodule update --init --recursive` in the game's root directory (usually where the `.uproject` is located)
-    * If the project has been downloaded directly as a `.zip`, you can go to [LouisRaverdy/DiscordRPC](https://github.com/LouisRaverdy/DiscordRPC)
+    * If the project has been downloaded directly as a `.zip`, you can go to [LouisRaverdy/DiscordRPC](https://github.com/LouisRaverdy/DiscordRPC) and download the plugin from there.
 
 :::
 
