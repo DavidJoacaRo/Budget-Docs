@@ -32,9 +32,10 @@
   --ifm-footer-background-color: #000000;
 }
 
-.navbar{
-  backdrop-filter: blur(32px);
+.navbar:not(.navbar-sidebar--show) {
+  backdrop-filter: blur(16px);
 }
+
 
 body {
   font-family: 'Rubik', sans-serif;
