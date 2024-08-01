@@ -63,7 +63,7 @@ const config = {
         title: 'Budget Docs',
         logo: {
           //alt: 'Logo',
-          //src: 'img/64px.svg',
+          src: 'img/64px.svg',
         },
         items: [
           {
