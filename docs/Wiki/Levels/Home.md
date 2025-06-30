@@ -14,7 +14,7 @@ Self-explanatory. This section will help you through the levels. Here you'll fin
 
 Each level is designed momentarily linear but encourages the player to explore instead of playing for the objective: (get the hell out of the level).
 
-The levels / game is technically "speedrunnable", however there is no form of rewards for doing so neither is there a community for it.
+The levels / game is technically "speedrunnable", there are no form of rewards for doing so, however there is a small community for speedrunning on [speedrun.com](https://www.speedrun.com/Budget_Backrooms?h=any&x=ndxq9yrk)
 
 ### **Info - [Things to keep in mind]**
 
