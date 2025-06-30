@@ -14,7 +14,7 @@ Self-explanatory. This section will help you through the levels. Here you'll fin
 
 Each level is designed momentarily linear but encourages the player to explore instead of playing for the objective: (get the hell out of the level).
 
-The levels / game is technically "speedrunnable"
+The levels / game is technically "speedrunnable", however there is no form of rewards for doing so neither is there a community for it.
 
 ### **Info - [Things to keep in mind]**
 
