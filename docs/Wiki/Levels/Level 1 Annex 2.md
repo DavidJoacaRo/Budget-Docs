@@ -4,7 +4,7 @@ slug: /wiki/levels/1a2
 
 ## "Annex 2"
 <div style="float:right; margin: 0px 0px 10px 10px">
- <img align="right" width="325" src="https://github.com/user-attachments/assets/ef6d1536-9c75-4546-aaf7-ac65ed1e24ba"/>
+ <img align="right" width="325" src="/img/assets/lv1a2.png"/>
 </div>
 
 **Annex 2** is an extension of [Level 1](/wiki/levels/1), it has the same features as the main level, and features a widely fenced out area with some portapottys and some leftover construction props.

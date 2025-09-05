@@ -4,7 +4,7 @@ slug: /wiki/levels/0
 
 ## "The Lobby"
 <div style="float:right; margin: 0px 0px 10px 10px">
- <img align="right" width= 325 src="https://github.com/DavidJoacaRo/Budget-Docs/assets/32200281/141da79f-e22e-4a48-9684-687df7b51d18"/>
+ <img align="right" width="325" src="/img/assets/lv0.png"/>
 </div>
 
 > *"Level 0 is an expansive non-Euclidean space, resembling the back rooms of a retail outlet. All rooms in Level 0 share the same superficial features, such as worn mono-yellow wallpaper, old moist carpet, scattered electrical outlets, and inconsistently-placed fluorescent lighting. Aside from these common features, no two rooms within the level are identical.

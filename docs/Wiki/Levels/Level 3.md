@@ -4,7 +4,7 @@ slug: /wiki/levels/3
 
 ## "Electrical Station"
 <div style="float:right; margin: 0px 0px 10px 10px">
- <img align="right" width="325" src="https://github.com/DavidJoacaRo/Budget-Docs/assets/32200281/7873f71a-73e1-4724-9c3a-130954c18069"/>
+ <img align="right" width="325" src="/img/assets/lv3.png"/>
 </div>
 
 **Level 3** consists of a mix between [Level 2](/wiki/levels/2) and [Level 1](/wiki/levels/1). There are remains of pipes and building equipment from previous levels, apparently this level was supposed to be expanded.

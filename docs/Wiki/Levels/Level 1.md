@@ -4,7 +4,7 @@ slug: /wiki/levels/1
 
 ## "Habitable Zone"
 <div style="float:right; margin: 0px 0px 10px 10px">
- <img align="right" width="325" src="https://github.com/DavidJoacaRo/Budget-Docs/assets/32200281/3c846cb8-a42a-4ee7-9a68-7a39af4e2d5a"/>
+ <img align="right" width="325" src="/img/assets/lv1.png"/>
 </div>
 
 **Level 1** is a big warehouse facility, with construction equipment left in the area. The place is usually very dark, because of the poorly lit lights. There are no known records of Entities in the area at the moment, hence its name "Habitable Zone"
