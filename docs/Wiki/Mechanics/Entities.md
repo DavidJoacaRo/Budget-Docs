@@ -97,3 +97,14 @@ Did you know?
 * In the game files, there's an alternative Smiler [Actor](https://docs.unrealengine.com/4.27/en-US/Basics/Actors/), that uses an alternative [Nextbot-style](https://developer.valvesoftware.com/wiki/NextBot) of AI. By constantly chasing the player around the map, the same as in Level "!".
 * It took me a while to think and develop the idea for The Smiler.
 :::
+
+
+
+
+## The Fog
+
+This Entity does not have a specific shape or form. It is mostly invisible surrounded by particles, and chases whoever gets in its proximity (usually the player).
+
+### Mechanic
+
+Most dark areas in Level 1 and some in Level 3

@@ -13,13 +13,13 @@ The fluorescent lighting present in Level 0 hums at a constant frequency. This b
 [¹]: https://backrooms.fandom.com/wiki/Level_0
 
  ## Origin
- This level, (being the only one), had its origins on 4chan, the original caption read "If you're not careful and you noclip out of reality in the wrong areas, you'll end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
+ > This level, (being the only one), had its origins on 4chan, the original caption read "If you're not careful and you noclip out of reality in the wrong areas, you'll end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 God save you if you hear something wandering around nearby, because it sure as hell has heard you." It was a part of the /x/ board originally and it became incredibly popular online which then lead to the popular series "backrooms" by Kane Pixels.
 
 **Level 0**, and by extension, the Backrooms, can be accessed by accidentally no-clipping out-of-bounds in normal reality. In addition, many levels can lead one to **Level 0** [¹].
 
 ## In-Game
 
-In *level 0* you can gain *x* achievements
+In *Level 0* you can gain *5* potential achievements, and in order to escape **Level 0** you need to explore the vast area of it. Be careful of [The Howler(s)](/wiki/entities#the-howler), usually roaming around the level, and near the exit area. The exit usually looks like a ladder leading straight to [Level 1](/wiki/levels/1).
 
-In order to escape **Level 0** you need to explore the vast area of Level 0. Be careful of [The Howler(s)](/wiki/entities#the-howler), they usually roam the exit and the entrance area. The exit usually looks like a ladder leading straight to [Level 1.](/wiki/levels/1)
+From time to time there's a ringing phone that can be heard throughout the level. Locating and approaching it will unlock an achievement, followed by a pleasant prize in the vicinity of the same room. 
