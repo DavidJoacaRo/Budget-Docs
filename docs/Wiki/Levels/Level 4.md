@@ -4,7 +4,7 @@ slug: /wiki/levels/4
 
 ## "Abandoned Office"
 <div style="float:right; margin: 0px 0px 10px 10px">
- <img align="right" width="325" src="/static/img/assets/lv4.png"/>
+ <img align="right" width="325" src="/img/assets/lv4.png"/>
 </div>
 
 **Level 4** is a small office room area, decorated with a teal-white color scheme. While the weather outside appears to be very rainy, inside it has been reported to be comfortably warm. Desks are scattered around but in an organized manner. The building does receive electricity and there are computers that can be minimally interacted with. Not many documents can be found and some chairs appear to be turned over.
