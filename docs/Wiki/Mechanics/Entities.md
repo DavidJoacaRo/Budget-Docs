@@ -98,7 +98,7 @@ Did you know?
 * It took me a while to think and develop the idea for The Smiler.
 :::
 
-
+---
 
 
 ## The Fog
@@ -107,4 +107,22 @@ This Entity does not have a specific shape or form. It is mostly invisible surro
 
 ### Mechanic
 
-Most dark areas in Level 1 and some in Level 3
+Most dark areas in Level 1 and some in Level 3 can trigger him, once triggered there's no coming back.
+
+---
+
+
+
+## ██████████████
+
+`4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRBJUKRJALFHVKICTJ5HU4IHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI4KLIRYUWRDRJNCHCS2EOFFUI`
+
+
+
+
+<audio controls>
+  <source src="/sound/WHATISTHAT_HELP.wav" preload="none" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+<sup>[loud content]</sup>
