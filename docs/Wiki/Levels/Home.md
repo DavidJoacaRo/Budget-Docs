@@ -16,7 +16,7 @@ Each level is designed momentarily linear but encourages the player to explore i
 
 The levels / game is technically "speedrunnable", there are no form of rewards for doing so, however there is a small community for speedrunning on [speedrun.com](https://www.speedrun.com/Budget_Backrooms?h=any&x=ndxq9yrk)
 
-### **Info - [Things to keep in mind]**
+:::info[Things to keep in mind]
 
 * Levels are not procedurally generated because I am incapable of doing so.
 
