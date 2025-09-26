@@ -18,15 +18,12 @@ The levels / game is technically "speedrunnable", there are no form of rewards f
 
 :::info[Things to keep in mind]
 
-* Levels are not procedurally generated because I am incapable of doing so.
+* Levels are not procedurally generated because I do not have any idea how to do it yet. (and it's usually buggy)
 
-* All of the levels are made using Unreal's [Geometry Brush Actors](https://docs.unrealengine.com/4.27/en-US/Basics/Actors/Brushes/) (or as I like to call them, BSP Brushes). So, optimization is thrown out of the window (bad).
-
-* I am not that good at Level Design, I barely have ideas.
-
-* Everything in this game uses [dynamic lighting](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/), so performance is a bit of an issue to fix for me. If you have a good GPU, the game will run pretty smooth.
-    * Speaking of performance, baked lighting takes ages to compile, and the lightmaps are fricking broken.
+* Some of the levels are made using Unreal's [Geometry Brush Actors](https://docs.unrealengine.com/4.27/en-US/Basics/Actors/Brushes/) (or as I like to call them, BSP Brushes). So, optimization is thrown out of the window (bad) at times.
+   * Also some levels in this game make use of [dynamic lighting](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/), so performance is a bit of an issue to fix for me. If you have a good GPU, the game should run pretty good but optimizations will still be considered.
 :::
+
 # Levels
 
 There are currently 5 Levels (and 3 sub levels) in Budget Backrooms.
