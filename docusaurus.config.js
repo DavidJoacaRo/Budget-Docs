@@ -22,7 +22,6 @@ const config = {
   projectName: 'Budget Docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -145,7 +144,10 @@ const config = {
       ]
     }),
     markdown: {
-      format: "detect"
+      format: "detect",
+      hooks: {
+        onBrokenMarkdownLinks: "warn",
+      }
     },
     headTags: [
       // Declare a <link> preconnect tag
