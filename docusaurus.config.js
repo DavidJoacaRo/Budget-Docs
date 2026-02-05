@@ -31,6 +31,15 @@ const config = {
     locales: ['en'],
   },
 
+  scripts: [
+    {
+      src: 'https://behind.dabar.dev/api/script.js',
+      defer: true,
+      'data-site-id': 'ba6e87bcc9e9', 
+    },
+    // Contact me if the anonymised tracking for Budget Docs bothers you when looking at this code
+  ],
+
   presets: [
     [
       'classic',
