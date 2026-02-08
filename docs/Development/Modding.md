@@ -25,56 +25,60 @@ I hope you'll learn something and do something better for this game or, for your
 * Basic knowledge of Unreal Engine.
 * Basic Brain processing power.
     * Concentrated and calm behavior is recommended.
-* Visual Studio 2022 or better.
+* Visual Studio 2022.
+    * Make sure the option **Game Development with C++** is ticked inside the Visual Studio Installer 🙏🙏🙏.
 
 
 # 📁 Setting up the Project
 ---
 
 :::info
-**This guide is not foolproof. Make sure you have everything ready before attempting this.**
+**This guide is not foolproof. Make sure you have basic computer literacy before attempting this.**
 :::
 
 
 :::warning
 
-*If you're encountering errors or having difficulties, [post an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues) and, with your cooperation, we could try fixing your problem.*
+*If you're having difficulties, [post an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues) or [join the Discord server](https://discord.gg/WVuTB56ag4) and with your cooperation, we could further investigate the problem.*
 
 :::
 :::danger
-* Before that, rename the `.uproject` to anything but not BudgetBackrooms, do this ONLY if you have more copies of the game (like one folder with the fork source code and other the original source code).
+* Before that, rename the `.uproject` to anything but not BudgetBackrooms, do this <ins>ONLY if you have more copies of the source code</ins> *(like one folder with the fork source code and other the original source code).*
     * There's this awkward bug in Unreal, that if you have the same name .uproject, shader recompilation will be re-triggered and we don't want to waste precious time.
+        * Upon further testing you might also encounter compilation errors if renamed so it is a 50/50 situation, just separate the folders if none of the above work and keep the `.uproject` as it is.
 :::
 
 ---
 
-1. Download / Clone the project using Git or any other preferred method. (git is required to be up to date with the source code)
+1. **[Clone the project using Git](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) (recommended) or just download the source code as a `.zip` file and extract it.**
+    * If downloading as a `.zip` and not using Git, you will encounter errors with DiscordRPC since it's a [submodule](https://github.blog/open-source/git/working-with-submodules/). You will find out how to fix this problem in the infobox below including the AMD FSR plugin installation steps.
 
-2. Make sure to install the required plugins inside the [.uproject](https://github.com/DavidJoacaRo/Budget-Backrooms/blob/main/BudgetBackrooms.uproject).
+2. **Make sure you've installed the required plugins inside the [.uproject](https://github.com/DavidJoacaRo/Budget-Backrooms/blob/main/BudgetBackrooms.uproject).**
 
 :::warning
 
-**Make sure to download & install the Marketplace plugins, and then open the project. Otherwise you'll run into errors, so best advice to install them before.**
+Make sure to download & install the Marketplace plugins first, and then open the project.
 
 :::
 
 :::info
 
-* **AMD FSR (AMD FidelityFX Super Resolution 1.0)** plugin can be found [here](https://gpuopen.com/learn/ue4-fsr/) since it's not available on the Unreal Marketplace.
+* The **AMD FSR (AMD FidelityFX Super Resolution 1.0)** plugin can be found [here](https://gpuopen.com/learn/ue4-fsr/) since it's not available on the Unreal Marketplace.
+    * *Further installation steps are mentioned on the website*.
 
-* If the project has been downloaded using `git clone` then **DiscordRPC** can be installed by typing `git submodule update --init --recursive` in the game's root directory (usually where the `.uproject` is located)
+* **DiscordRPC** can be installed by typing `git submodule update --init --recursive` in the game's root directory (usually where the `.uproject` is located)
     * If the project has been downloaded directly as a `.zip`, you can go to [LouisRaverdy/DiscordRPC](https://github.com/LouisRaverdy/DiscordRPC) and download the plugin from there.
 
 :::
 
 
-3. You may be prompted to "rebuild" `BudgetBackrooms` when opening the project.
-* Encountering errors? (Troubleshooting Ideas)
+3. **You may be prompted to "rebuild" `BudgetBackrooms` when opening the project.**
+* Encountering errors?
     * 1. You could try right-clicking `BudgetBackrooms.uproject` and selecting **Generate Visual Studio project files** then, recompile Budget Backrooms inside Visual Studio (Build > **Build BudgetBackrooms**).
             * If the build didn't succeed anyway, try reading the log and see what went wrong, make sure the C++ Plugins such as **AdvancedSteamSessions** (and a few more) are installed inside the `Plugins` folder in the source code.
     * 2. If none of the above worked, make sure you got all the plugins installed as they are used in the project.
             * The paid plugin issue was solved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/pull/28)
-    * 3. Make sure you have Visual Studio installed properly, since it's required to compile everything about C++ in the game, which is being used. Inside Visual Studio Installer, you can try pressing **Modify** at your preferred VS installation, and make sure the option **Game Development with C++** is ticked.
+    * 3. As mentioned above, make sure you have Visual Studio 2019-2022 installed properly, since it's required to compile everything about C++ in the game, which is being used. Inside Visual Studio Installer, you can press **Modify** at your preferred VS installation, and then make sure the option **Game Development with C++** is ticked.
 * If you don't encounter any (other) errors, proceed to rebuild without doing anything else.
 
 4. Did you get the game's splash screen?
@@ -85,5 +89,6 @@ I hope you'll learn something and do something better for this game or, for your
         * Backtrace your problem, and see what went wrong.
         * Revert some steps?
         * Still not working?
-            * [Make an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/new), and hopefully, I could try helping you.
+            * Ask for help by [making an issue](https://github.com/DavidJoacaRo/Budget-Backrooms/issues/new) or by [joining the Discord server](https://discord.gg/WVuTB56ag4).
+
 

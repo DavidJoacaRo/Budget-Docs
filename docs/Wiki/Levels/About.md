@@ -27,13 +27,13 @@ The levels / game is technically "speedrunnable", there are no form of rewards f
 # Levels
 
 There are currently 7 Levels (and 3 sub levels) in Budget Backrooms.
-* Level 0
-* Level 1
-* Level 1 Annex 2
-* Level 2
-* Level 3
-* Level 4
-* Level 5 (unfinished)
+* [Level 0](/wiki/levels/0)
+* [Level 1](/wiki/levels/1)
+* [Level 1 Annex 2](/wiki/levels/1a2)
+* [Level 2](/wiki/levels/2)
+* [Level 3](/wiki/levels/3)
+* [Level 4](/wiki/levels/4)
+* [Level 5](/wiki/levels/5)
 * * Level "Before This Game Existed"
 * * Level "You Cheated"
 * * Level "!" ("Run for your Life")
